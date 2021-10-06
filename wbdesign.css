@@ -1,0 +1,59 @@
+.flag1,.flag31,.flag61{
+    margin-top: 40px;
+    background-color: rgb(245, 240, 240);
+    width: 250px;
+    height: 330px;
+    font-size: 4px;
+    border-radius: 5px;
+    position: relative;
+    box-shadow: 0 0 0px rgb(53, 53, 53), 0 0 10px rgb(44, 44, 44);
+}
+img{
+    border-top-left-radius: 5px;
+    border-top-right-radius:5px;
+}
+ul{
+    margin-top: 10px;
+    list-style-type:none;
+    line-height: 200%;
+}
+p{
+    margin-top: 10px;
+    text-align: center;
+}
+span{
+    font-weight: lighter;
+}
+.flag2{
+    margin-top: 40px;
+    background-color: rgb(245, 240, 240);
+    width: 250px;
+    height: 330px;
+    font-size: 4px;
+    border-radius: 5px;
+    position: relative;
+    box-shadow: 0 0 0px rgb(53, 53, 53), 0 0 10px rgb(44, 44, 44);
+}
+
+.flag3{
+    margin-top: 40px;
+    background-color: rgb(245, 240, 240);
+    width: 250px;
+    height: 330px;
+    font-size: 4px;
+    border-radius: 5px;
+    position: relative;
+    box-shadow: 0 0 0px rgb(53, 53, 53), 0 0 10px rgb(44, 44, 44);
+}
+
+
+.flag4,.flag5,.flag6{
+    margin-top: 40px;
+    background-color: rgb(245, 240, 240);
+    width: 250px;
+    height: 330px;
+    font-size: 4px;
+    border-radius: 5px;
+    position: relative;
+    box-shadow: 0 0 0px rgb(53, 53, 53), 0 0 10px rgb(44, 44, 44);
+}
