@@ -1,5 +1,6 @@
 body{
     padding-bottom: 40px;
+    background-image: linear-gradient(to right top, #7f71da, #d05dc1, #ff5092, #ff6358, #fb8b10);
 }
 .flag{
     margin-top: 40px;
