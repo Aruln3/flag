@@ -4,10 +4,11 @@ body{
 }
 .flag{
     margin-top: 40px;
-    background-color: rgb(250, 246, 246);
+    background-image: radial-gradient(circle, #5669b9, #687bc3, #7b8dcd, #8e9fd6, #a2b1df, #a6b3ea, #abb5f5, #b1b6ff, #b5a4ff, #c28eff, #d772ff, #f046f8);
     width: 250px;
     height: 330px;
     font-size: 4px;
+    color: rgb(39, 77, 114);
     border-radius: 5px;
     position: relative;
     font-family: 'Architects Daughter', cursive;
@@ -16,12 +17,11 @@ body{
 }
 .flag:hover{
     transform: scale(1.03);
-    background-color: rgb(0, 0, 0);
-    color: white;
+    background-image: radial-gradient(circle, #6b81d1, #858bd6, #9b95da, #afa0df, #c1ace4, #caabe5, #d3abe5, #ddaae5, #e49add, #ec88d1, #f475c2, #fb5fb0);
     box-shadow:none;
-      transition-duration: 1s;
+    transition-duration: 1s;
+    color: black;
     font-size: min(max(16px, 4vw), 12px);
-    
 }
 img{
     border-top-left-radius: 5px;
