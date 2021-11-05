@@ -1,6 +1,10 @@
 body{
     padding-bottom: 40px;
-    background-image: linear-gradient(to right top, #7f71da, #d05dc1, #ff5092, #ff6358, #fb8b10);
+   /* background-image: linear-gradient(to right top, #7f71da, #d05dc1, #ff5092, #ff6358, #fb8b10);*/
+      background-image: url("https://64.media.tumblr.com/b87bbbd43750b81928a261335ed69e75/tumblr_onfb2h2yEf1s14nrdo1_500.gifv");
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0px;
 }
 .flag{
     margin-top: 40px;
